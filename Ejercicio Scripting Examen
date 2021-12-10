@@ -1,0 +1,8 @@
+Touch 01-hola-mundo.sh
+Nano 01-hola-mundo.sh
+######################
+echo Hola mundo
+######################
+Chmod 777
+./01-hola-mundo.sh
+"Hola mundo"
